@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C0019E0A262C93679EBFE089E3D692AF1E43AA2F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C0019E0A262C93679EBFE089E3D692AF1E43AA2F" : 9223372036854775807,
+    "5291C1F70946EABFF57567FF3B10D5D69A615E3B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "58CEE703-4533-454D-A009-2366542241B6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C0019E0A262C93679EBFE089E3D692AF1E43AA2F" : "iOS_GiphyApp\/",
+    "5291C1F70946EABFF57567FF3B10D5D69A615E3B" : "iOS_GiphyApp\/SampleApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOS_GiphyApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS_GiphyApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ahhhlvin\/iOS_SampleApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5291C1F70946EABFF57567FF3B10D5D69A615E3B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ahhhlvin\/iOS_GiphyApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C0019E0A262C93679EBFE089E3D692AF1E43AA2F"
+    }
+  ]
+}
