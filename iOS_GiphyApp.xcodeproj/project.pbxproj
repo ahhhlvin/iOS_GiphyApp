@@ -24,7 +24,6 @@
 		3B4622C5A285E11491365D52 /* libPods-iOS_GiphyApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-iOS_GiphyApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B3581D7A87F16117432F139 /* Pods-iOS_GiphyApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS_GiphyApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-iOS_GiphyApp/Pods-iOS_GiphyApp.debug.xcconfig"; sourceTree = "<group>"; };
 		A10A5B4533E9930B2719680C /* Pods-iOS_GiphyApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS_GiphyApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-iOS_GiphyApp/Pods-iOS_GiphyApp.release.xcconfig"; sourceTree = "<group>"; };
-		D912B45F1DD3CC97004F79E0 /* UIImageView+WebCache.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+WebCache.m"; path = "../../Desktop/SDWebImage-master/SDWebImage/UIImageView+WebCache.m"; sourceTree = "<group>"; };
 		D912B4611DD3CDAF004F79E0 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
 		D94579631DCB956F0007D95B /* iOS_GiphyApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_GiphyApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D94579671DCB956F0007D95B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -64,7 +63,6 @@
 			children = (
 				D9B018631DD4FA2600E81FAB /* Foundation.framework */,
 				D912B4611DD3CDAF004F79E0 /* ImageIO.framework */,
-				D912B45F1DD3CC97004F79E0 /* UIImageView+WebCache.m */,
 				3B4622C5A285E11491365D52 /* libPods-iOS_GiphyApp.a */,
 			);
 			name = Frameworks;

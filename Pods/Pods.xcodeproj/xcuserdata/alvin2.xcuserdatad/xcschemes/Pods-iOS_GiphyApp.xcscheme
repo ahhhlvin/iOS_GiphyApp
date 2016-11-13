@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'E7A6DB629E7FB84AC4086173A00C99D1'
+               BlueprintIdentifier = '932F821A08C3BB0572CDA7C0F251E2C7'
                BlueprintName = 'Pods-iOS_GiphyApp'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libPods-iOS_GiphyApp.a'>
