@@ -10,7 +10,7 @@
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9458AC5C-EDD6-48DC-AF1B-6320948FC0E1",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "282D5EF779F1D00B74A64E15FEE0490A7F230F6F" : "iOS_GiphyApp\/",
-    "5291C1F70946EABFF57567FF3B10D5D69A615E3B" : "iOS_GiphyApp\/SampleApp\/"
+    "5291C1F70946EABFF57567FF3B10D5D69A615E3B" : "iOS_GiphyApp\/iOS_GiphyApp\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "iOS_GiphyApp",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,

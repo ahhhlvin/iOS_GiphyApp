@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		468CCAF65CEA67E55FCB7CFC /* libPods-iOS_GiphyApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B4622C5A285E11491365D52 /* libPods-iOS_GiphyApp.a */; };
+		D90C5EE61DEB8E5000B64732 /* loading.gif in Resources */ = {isa = PBXBuildFile; fileRef = D90C5EE51DEB8E5000B64732 /* loading.gif */; };
 		D94579681DCB956F0007D95B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D94579671DCB956F0007D95B /* main.m */; };
 		D945796B1DCB956F0007D95B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D945796A1DCB956F0007D95B /* AppDelegate.m */; };
 		D945796E1DCB956F0007D95B /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D945796D1DCB956F0007D95B /* FirstViewController.m */; };
@@ -24,26 +25,27 @@
 		3B4622C5A285E11491365D52 /* libPods-iOS_GiphyApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-iOS_GiphyApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B3581D7A87F16117432F139 /* Pods-iOS_GiphyApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS_GiphyApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-iOS_GiphyApp/Pods-iOS_GiphyApp.debug.xcconfig"; sourceTree = "<group>"; };
 		A10A5B4533E9930B2719680C /* Pods-iOS_GiphyApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS_GiphyApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-iOS_GiphyApp/Pods-iOS_GiphyApp.release.xcconfig"; sourceTree = "<group>"; };
+		D90C5EE51DEB8E5000B64732 /* loading.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = loading.gif; path = ../../Desktop/loading.gif; sourceTree = "<group>"; };
 		D912B4611DD3CDAF004F79E0 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
 		D94579631DCB956F0007D95B /* iOS_GiphyApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_GiphyApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D94579671DCB956F0007D95B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D94579691DCB956F0007D95B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		D945796A1DCB956F0007D95B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D945796C1DCB956F0007D95B /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
-		D945796D1DCB956F0007D95B /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
-		D945796F1DCB956F0007D95B /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
-		D94579701DCB956F0007D95B /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		D94579691DCB956F0007D95B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = iOS_GiphyApp/AppDelegate.h; sourceTree = "<group>"; };
+		D945796A1DCB956F0007D95B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = iOS_GiphyApp/AppDelegate.m; sourceTree = "<group>"; };
+		D945796C1DCB956F0007D95B /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = FirstViewController.h; path = iOS_GiphyApp/FirstViewController.h; sourceTree = "<group>"; };
+		D945796D1DCB956F0007D95B /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = FirstViewController.m; path = iOS_GiphyApp/FirstViewController.m; sourceTree = "<group>"; };
+		D945796F1DCB956F0007D95B /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SecondViewController.h; path = iOS_GiphyApp/SecondViewController.h; sourceTree = "<group>"; };
+		D94579701DCB956F0007D95B /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = SecondViewController.m; path = iOS_GiphyApp/SecondViewController.m; sourceTree = "<group>"; };
 		D94579731DCB956F0007D95B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D94579751DCB956F0007D95B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D94579751DCB956F0007D95B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = iOS_GiphyApp/Assets.xcassets; sourceTree = "<group>"; };
 		D94579781DCB956F0007D95B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D945797A1DCB956F0007D95B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D945797A1DCB956F0007D95B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = iOS_GiphyApp/Info.plist; sourceTree = "<group>"; };
 		D9B018631DD4FA2600E81FAB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		D9B20E181DD0EB80009150AA /* CollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewCell.h; sourceTree = "<group>"; };
-		D9B20E191DD0EB80009150AA /* CollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionViewCell.m; sourceTree = "<group>"; };
-		D9B20E1B1DD0FEF2009150AA /* GiphyObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GiphyObject.h; sourceTree = "<group>"; };
-		D9B20E1C1DD0FEF2009150AA /* GiphyObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GiphyObject.m; sourceTree = "<group>"; };
-		D9B20E1E1DD10558009150AA /* EnlargedGifViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnlargedGifViewController.h; sourceTree = "<group>"; };
-		D9B20E1F1DD10558009150AA /* EnlargedGifViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnlargedGifViewController.m; sourceTree = "<group>"; };
+		D9B20E181DD0EB80009150AA /* CollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CollectionViewCell.h; path = iOS_GiphyApp/CollectionViewCell.h; sourceTree = "<group>"; };
+		D9B20E191DD0EB80009150AA /* CollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CollectionViewCell.m; path = iOS_GiphyApp/CollectionViewCell.m; sourceTree = "<group>"; };
+		D9B20E1B1DD0FEF2009150AA /* GiphyObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GiphyObject.h; path = iOS_GiphyApp/GiphyObject.h; sourceTree = "<group>"; };
+		D9B20E1C1DD0FEF2009150AA /* GiphyObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GiphyObject.m; path = iOS_GiphyApp/GiphyObject.m; sourceTree = "<group>"; };
+		D9B20E1E1DD10558009150AA /* EnlargedGifViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EnlargedGifViewController.h; path = iOS_GiphyApp/EnlargedGifViewController.h; sourceTree = "<group>"; };
+		D9B20E1F1DD10558009150AA /* EnlargedGifViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EnlargedGifViewController.m; path = iOS_GiphyApp/EnlargedGifViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,24 +73,7 @@
 		D945795A1DCB956F0007D95B = {
 			isa = PBXGroup;
 			children = (
-				D94579651DCB956F0007D95B /* SampleApp */,
-				D94579641DCB956F0007D95B /* Products */,
-				D912B45E1DD3CC96004F79E0 /* Frameworks */,
-				F93BCFEF0DB462855D634C1D /* Pods */,
-			);
-			sourceTree = "<group>";
-		};
-		D94579641DCB956F0007D95B /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				D94579631DCB956F0007D95B /* iOS_GiphyApp.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		D94579651DCB956F0007D95B /* SampleApp */ = {
-			isa = PBXGroup;
-			children = (
+				D90C5EE51DEB8E5000B64732 /* loading.gif */,
 				D94579691DCB956F0007D95B /* AppDelegate.h */,
 				D945796A1DCB956F0007D95B /* AppDelegate.m */,
 				D945796C1DCB956F0007D95B /* FirstViewController.h */,
@@ -106,8 +91,18 @@
 				D9B20E1C1DD0FEF2009150AA /* GiphyObject.m */,
 				D9B20E1E1DD10558009150AA /* EnlargedGifViewController.h */,
 				D9B20E1F1DD10558009150AA /* EnlargedGifViewController.m */,
+				D94579641DCB956F0007D95B /* Products */,
+				D912B45E1DD3CC96004F79E0 /* Frameworks */,
+				F93BCFEF0DB462855D634C1D /* Pods */,
 			);
-			path = SampleApp;
+			sourceTree = "<group>";
+		};
+		D94579641DCB956F0007D95B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D94579631DCB956F0007D95B /* iOS_GiphyApp.app */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 		D94579661DCB956F0007D95B /* Supporting Files */ = {
@@ -116,6 +111,7 @@
 				D94579671DCB956F0007D95B /* main.m */,
 			);
 			name = "Supporting Files";
+			path = iOS_GiphyApp;
 			sourceTree = "<group>";
 		};
 		F93BCFEF0DB462855D634C1D /* Pods */ = {
@@ -146,7 +142,7 @@
 			dependencies = (
 			);
 			name = iOS_GiphyApp;
-			productName = SampleApp;
+			productName = iOS_GiphyApp;
 			productReference = D94579631DCB956F0007D95B /* iOS_GiphyApp.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -190,6 +186,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D94579791DCB956F0007D95B /* LaunchScreen.storyboard in Resources */,
+				D90C5EE61DEB8E5000B64732 /* loading.gif in Resources */,
 				D94579761DCB956F0007D95B /* Assets.xcassets in Resources */,
 				D94579741DCB956F0007D95B /* Main.storyboard in Resources */,
 			);
@@ -269,6 +266,7 @@
 				D94579731DCB956F0007D95B /* Base */,
 			);
 			name = Main.storyboard;
+			path = iOS_GiphyApp;
 			sourceTree = "<group>";
 		};
 		D94579771DCB956F0007D95B /* LaunchScreen.storyboard */ = {
@@ -277,6 +275,7 @@
 				D94579781DCB956F0007D95B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			path = iOS_GiphyApp;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -384,14 +383,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = ZFNFF2LTRL;
-				INFOPLIST_FILE = SampleApp/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/iOS_GiphyApp/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "$(inherited)";
 				OTHER_LIBTOOLFLAGS = "";
 				PATH = /usr/local/bin;
-				PRODUCT_BUNDLE_IDENTIFIER = alvin.kuang.iOS.SampleApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "alvin.kuang.iOS.iOS-GiphyApp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -403,14 +402,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = ZFNFF2LTRL;
-				INFOPLIST_FILE = SampleApp/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/iOS_GiphyApp/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "$(inherited)";
 				OTHER_LIBTOOLFLAGS = "";
 				PATH = /usr/local/bin;
-				PRODUCT_BUNDLE_IDENTIFIER = alvin.kuang.iOS.SampleApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "alvin.kuang.iOS.iOS-GiphyApp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
